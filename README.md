@@ -1,5 +1,7 @@
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Pranav;CE+Freshman+at+UTD;Building+robotics+%2B+AI)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi%2C+CE+Freshman+at+UTD)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi%2C+Building+robotics+%2B+AI)]()
 <!--
 **PranavPrasanna01/PranavPrasanna01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
