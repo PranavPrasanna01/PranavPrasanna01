@@ -3,8 +3,9 @@
 ![](https://skillicons.dev/icons?i=python,java,js,cpp,swift&theme=dark)
 
 <p align="center">
-  <img src="assets/python.gif" width="60" />
-  <img src="assets/js.svg" width="60" />
+  <img src = "assets/python.gif" width = "60" />
+  <img src = "assets/js.gif" width = "60" />
+  <img src = "assets/" width = "60" /> 
 </p>
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi%2C+CE+Freshman+at+UTD)]()
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi%2C+Building+robotics+%2B+AI)]()
