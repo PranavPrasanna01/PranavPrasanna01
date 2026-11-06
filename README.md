@@ -1,10 +1,9 @@
 **## Hi there 👋**
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Pranav;CE+Freshman+at+UTD;Building+robotics+%2B+AI)]()
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,swift,pytorch,arduino,linux,docker&perline=3&theme=dark)](https://skillicons.dev)
 
 <p align = "center">
   <a href = "https:skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,swift,pytorch,arduino,linux,docker&perline=4&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,swift,matlab,docker,pytorch,postges,linux,apple,windows,ubuntu,neovim,cursor,ts,js,css,html&perline=4&theme=dark" alt="My Skills" />
   </a>
 </p>
 
