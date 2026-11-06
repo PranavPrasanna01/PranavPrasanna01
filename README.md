@@ -3,9 +3,20 @@
 ![](https://skillicons.dev/icons?i=python,java,js,cpp,swift&theme=dark)
 
 <p align="center">
-  <img src = "assets/python.gif" width = "60" />
-  <img src = "assets/js.gif" width = "60" />
-  <img src = "assets/" width = "60" /> 
+  <img src = "assets/python.gif" width = "75" />
+  <img src = "assets/js.gif" width = "75" />
+  <img src = "assets/" width = "75" />   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"  width = "75" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width = "75" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width = "75" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" width = "75" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width = "75" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width = "75" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width = "75" />
+
+  
+    
+
 </p>
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi%2C+CE+Freshman+at+UTD)]()
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi%2C+Building+robotics+%2B+AI)]()
