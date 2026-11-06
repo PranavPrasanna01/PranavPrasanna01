@@ -1,6 +1,6 @@
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Pranav;CE+Freshman+at+UTD;Building+robotics+%2B+AI)]()
-[![My Skills](https://skillicons.dev/icons?,flutter&perline=3,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,swift,pytorch,arduino,linux,docker&perline=3&theme=dark)](https://skillicons.dev)
 
 <p align = "center">
   <img src = "assets/python.gif" width = "75" />
