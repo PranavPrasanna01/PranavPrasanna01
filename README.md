@@ -1,21 +1,29 @@
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Pranav;CE+Freshman+at+UTD;Building+robotics+%2B+AI)]()
-![](https://skillicons.dev/icons?i=python,java,js,cpp,swift&theme=dark)
+[![My Skills](https://skillicons.dev/icons?,flutter&perline=3,&theme=dark)](https://skillicons.dev)
 
-<p align="center">
+<p align = "center">
   <img src = "assets/python.gif" width = "75" />
-  <img src = "assets/js.gif" width = "75" />
-  <img src = "assets/" width = "75" />   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"  width = "75" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width = "75" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width = "75" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" width = "75" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width = "75" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width = "75" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width = "75" />
-
+  <img src = "assets/cpp.gif" width = "75" /> <!-- C++ -->
+  <img src = "assets/cpp" width = "75" />   <!-- Java -->
+  <img src = "assets/swift" width = "75" />  <!-- Swift -->
+  <img src = "assets/pytorch" width = "75" /> <!-- Pytorch -->
+  <img src = "assets/" width = "75" /> <!--  -->
+  <img src = "assets/matlab" width = "75" /> <!-- Matlab -->
+  <img src = "assets/docker" width = "75" /> <!-- Docker -->
+  <img src = "assets/arduino" width = "75" /> <!-- Arduino -->
+  <img src = "assets/ppotgres" width = "75" /> <!-- Postgres -->
+  <img src = "assets/linux" width = "75" /> <!-- Linux -->
+  <img src = "assets/ubuntu" width = "75" /> <!-- Ubuntu -->
+  <img src = "assets/js" width = "75" /> <!-- JS -->
+  <img src = "assets/html" width = "75" /> <!-- HTML -->
+  <img src = "assets/css" width = "75" /> <!-- CSS -->    
+  <img src = "assets/svelte" width = "75" /> <!-- Svelte -->
+  <img src = "assets/visualstudio" width = "75" /> <!-- Visual Studio  -->
+  <img src = "assets/neovim" width = "75" /> <!-- Neovim  -->
+  <img src = "assets/apple" width = "75" /> <!-- Apple  -->
+  <img src = "assets/windows" width = "75" /> <!-- Windows -->
   
-    
 
 </p>
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi%2C+CE+Freshman+at+UTD)]()
