@@ -5,24 +5,23 @@
 <p align = "center">
   <img src = "assets/python.gif" width = "75" />
   <img src = "assets/cpp.gif" width = "75" /> <!-- C++ -->
-  <img src = "assets/cpp" width = "75" />   <!-- Java -->
-  <img src = "assets/swift" width = "75" />  <!-- Swift -->
-  <img src = "assets/pytorch" width = "75" /> <!-- Pytorch -->
-  <img src = "assets/" width = "75" /> <!--  -->
-  <img src = "assets/matlab" width = "75" /> <!-- Matlab -->
-  <img src = "assets/docker" width = "75" /> <!-- Docker -->
-  <img src = "assets/arduino" width = "75" /> <!-- Arduino -->
-  <img src = "assets/ppotgres" width = "75" /> <!-- Postgres -->
-  <img src = "assets/linux" width = "75" /> <!-- Linux -->
-  <img src = "assets/ubuntu" width = "75" /> <!-- Ubuntu -->
-  <img src = "assets/js" width = "75" /> <!-- JS -->
-  <img src = "assets/html" width = "75" /> <!-- HTML -->
-  <img src = "assets/css" width = "75" /> <!-- CSS -->    
-  <img src = "assets/svelte" width = "75" /> <!-- Svelte -->
-  <img src = "assets/visualstudio" width = "75" /> <!-- Visual Studio  -->
-  <img src = "assets/neovim" width = "75" /> <!-- Neovim  -->
-  <img src = "assets/apple" width = "75" /> <!-- Apple  -->
-  <img src = "assets/windows" width = "75" /> <!-- Windows -->
+  <img src = "assets/java.svg" width = "75" />   <!-- Java -->
+  <img src = "assets/swift.svg" width = "75" />  <!-- Swift -->
+  <img src = "assets/pytorch.svg" width = "75" /> <!-- Pytorch -->
+  <img src = "assets/matlab.svg" width = "75" /> <!-- Matlab -->
+  <img src = "assets/docker.svg" width = "75" /> <!-- Docker -->
+  <img src = "assets/arduino.svg" width = "75" /> <!-- Arduino -->
+  <img src = "assets/postgres.svg" width = "75" /> <!-- Postgres -->
+  <img src = "assets/linux.svg" width = "75" /> <!-- Linux -->
+  <img src = "assets/ubuntu.svg" width = "75" /> <!-- Ubuntu -->
+  <img src = "assets/js.svg" width = "75" /> <!-- JS -->
+  <img src = "assets/html.svg" width = "75" /> <!-- HTML -->
+  <img src = "assets/css.svg" width = "75" /> <!-- CSS -->    
+  <img src = "assets/svelte.svg" width = "75" /> <!-- Svelte -->
+  <img src = "assets/visualstudio.svg" width = "75" /> <!-- Visual Studio  -->
+  <img src = "assets/neovim.svg" width = "75" /> <!-- Neovim  -->
+  <img src = "assets/apple.svg" width = "75" /> <!-- Apple  -->
+  <img src = "assets/window.svgs" width = "75" /> <!-- Windows -->
   
 
 </p>
