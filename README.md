@@ -1,4 +1,4 @@
-**## Hi there 👋**
+## Hi there 👋
 <p align = "Left">
   <a href = "https:skillicons.dev">font=Fira+Code&size=22&pause=1000&color=2e0d69&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Pranav;CE+Freshman+at+UTD;Building+robotics+%2B+AI)]()
   </a>
