@@ -7,5 +7,4 @@
   </p>
 </p>
 
-**## How to reach out to me **
-Here are some ideas to get you started:
+## How to reach out to me
